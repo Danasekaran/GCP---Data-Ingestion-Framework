@@ -1,0 +1,12 @@
+TerritoryKey,Region,Country,CountryGroup,LastModifiedOn
+1,Northwest,United States,North America,20-01-2024
+2,Northeast,United States,North America,20-01-2024
+3,Central,United States,North America,20-01-2024
+4,Southwest,United States,North America,20-01-2024
+5,Southeast,United States,North America,20-01-2024
+6,Canada,Canada,North America,20-01-2024
+7,France,France,Europe,20-01-2024
+8,Germany,Germany,Europe,20-01-2024
+9,Australia,Australia,Pacific,20-01-2024
+10,United Kingdom,United Kingdom,Europe,20-01-2024
+11,Corporate HQ,Corporate HQ,Corporate HQ,20-01-2024
